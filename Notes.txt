@@ -1,9 +1,10 @@
-Project main folder.
-
 The main purpose of this project is to browse files in many ways.
 
+Project main folder content description.
+
 Files - project main entry:
-"go.*" main file (in different languages) which distinguish how input file will be processed.
+"LICENSE" nad "README.md" - GitHub generated default files.
+"go.*" - main file (in different languages) which distinguish how input file will be processed.
 
 Folders - data processing methods:
 "Numeric" - shows file in numeric format, like hex or char.
