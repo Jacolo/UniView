@@ -1,9 +1,11 @@
+
 The main purpose of this project is to browse files in many ways.
 
 Project main folder content description.
 
 Files - project main entry:
 "LICENSE" nad "README.md" - GitHub generated default files.
+"Notes.txt" - this file, each folder has his own "Notes.txt" which describes folder content.
 "go.*" - main file (in different languages) which distinguish how input file will be processed.
 
 Folders - data processing methods:
