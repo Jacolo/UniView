@@ -1,1 +1,15 @@
+Project main folder.
 
+The main purpose of this project is to browse files in many ways.
+
+Files - project main entry:
+"go.*" main file (in different languages) which distinguish how input file will be processed.
+
+Folders - data processing methods:
+"Numeric" - shows file in numeric format, like hex or char.
+"Graphic" - decodes file as graphics format data.
+"Sound" - sound and music files.
+"Movie" - movie files.
+Each file name (except "go.*") in folders "Graphic", "Sound" and "Movie" defines supported extensions.
+
+jg'18
